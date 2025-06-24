@@ -4,7 +4,7 @@
 
 I am Rom, an undergraduate student from School of Psychological and Cognitive Sciences, Peking University.
 
-# My interests:
+# My interests
 
 - I'm currently working on the interdisciplinary field: AI+Psychology.
 - I'm currently exploring the direction of hypothesis generation of both human and LLM.
