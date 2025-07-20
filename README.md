@@ -7,7 +7,7 @@ I am Rom, an undergraduate student from School of Psychological and Cognitive Sc
 # My interests
 
 - I'm currently working on the interdisciplinary field: AI+Psychology.
-- I'm currently exploring the direction of hypothesis generation of both human and LLM.
+- I'm currently exploring the hypothesis generation of both human and LLM.
 
   
 # Fun fact
