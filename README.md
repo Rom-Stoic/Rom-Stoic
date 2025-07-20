@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-# About me
+# About Me
 
 I am Rom, an undergraduate student from School of Psychological and Cognitive Sciences, Peking University.
 
-# My interests
+# My Interests
 
 - I'm currently working on the interdisciplinary field: AI+Psychology.
 - I'm currently exploring the hypothesis generation of both human and LLM.
 
   
-# Fun fact
+# Fun Fact
 
 I studied in School of Mathematical Sciences for one year and changed my major to psychology.
 
